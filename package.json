@@ -1,0 +1,20 @@
+{
+  "name": "@orlov-oleg-igorevich/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Orlov-Oleg-Igorevich/ajs#readme",
+  "bugs": {
+    "url": "https://github.com/Orlov-Oleg-Igorevich/ajs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orlov-Oleg-Igorevich/ajs.git"
+  },
+  "license": "ISC",
+  "author": "Oleg",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
